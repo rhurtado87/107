@@ -35,3 +35,7 @@ say_goodbye("Ricardo")
 
 #concatinate
 print("Hello my name is " + name +" and am " + str(age) +" years old")
+
+#arrary
+#list      0      1       2      3      4
+color = ["red","white","blue","black","pink"]
