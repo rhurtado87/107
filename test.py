@@ -37,5 +37,16 @@ say_goodbye("Ricardo")
 print("Hello my name is " + name +" and am " + str(age) +" years old")
 
 #arrary
-#list      0      1       2      3      4
-color = ["red","white","blue","black","pink"]
+#list      0      1       2      3      
+colorList = ["red","white","blue","black"]
+numberList = [1,2,3]
+
+#add 
+colorList.append("pink")
+
+#travle the list
+for temp in numberList:
+    print(temp)
+#ex:for (i=0;color.len;i++)
+    #let temp = color [i]
+        #console.log(temp) js
